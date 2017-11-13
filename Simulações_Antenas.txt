@@ -1,0 +1,5 @@
+escolher substrato
+planar em, antenas retangular patch(la em baixo)
+desenhar circulo
+vias- convertselect
+lower layers- ground-coaxial exitation
